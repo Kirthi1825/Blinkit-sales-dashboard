@@ -34,7 +34,10 @@ This Power BI dashboard analyzes Blinkit's grocery sales data and provides busin
 - Power BI
 - Power Query
 - DAX
-- Excel/CSV Dataset
+- 
+## Data Source
+
+- Blinkit Grocery Dataset (.xlsx)
 
 ## Key Insights
 
